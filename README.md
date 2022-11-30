@@ -7,7 +7,7 @@ This algorithm is designed using abstract factory and factory method to depict t
 Additionally, logging was introduced in order to ease the daignosis of encountered problem during the run of the 
 program. 
 
-This algorithm composed based on SOLID principle and appropriate design pattern. It successfully prints the animal 
+This algorithm is composed, and based on SOLID principle with proper application of design patterns. It successfully prints the animal 
 sound with its irrespective alphabets-cases. It can be easily extended if you want to add other animals sound.
 
 
