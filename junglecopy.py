@@ -1,5 +1,7 @@
 # junglecopy.py
 
+# author: D. K. Gupta
+
 from abc import ABCMeta, abstractmethod
 import abc
 
